@@ -19,12 +19,6 @@ Built with **Python + PyQt5**, and packaged into a single Windows `.exe` with Py
 - 🕓 **Download history** — remembers past searches and settings
 - 💾 **Persistent settings** — stored in your home directory (`~/.image_downloader.json`)
 
-## Screenshots
-
-_Add a screenshot or two of the app here (drag an image into this README on GitHub)._
-
----
-
 ## Requirements
 
 - Python 3.8+
@@ -104,9 +98,3 @@ python -m PyInstaller --clean --name "ImageDownloader" --onefile --windowed --ic
 | `app_icon.ico` | Application icon |
 | `icon_code_update.py` | Helper for icon handling |
 | `test_dependencies.py` | Dependency sanity check |
-
----
-
-## License
-
-No license specified yet. Until a license is added, this is a personal project and all rights are reserved. If you'd like to open it up, consider adding an MIT license.
